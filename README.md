@@ -7,11 +7,12 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go                7 hrs 31 mins   ████████████░░░░░░░░░░░░░   47.47 %
-PHP               2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-Makefile          2 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-JavaScript        56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Other             31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Go                9 hrs 53 mins   █████████████▓░░░░░░░░░░░   54.76 %
+PHP               2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Makefile          2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+JavaScript        56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Text              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+YAML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
