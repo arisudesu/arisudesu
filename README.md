@@ -7,8 +7,8 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go                   19 hrs 37 mins  ███████████████▒░░░░░░░░░   61.97 %
-Other                5 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
+Go                   18 hrs 54 mins  █████████████▓░░░░░░░░░░░   55.32 %
+Other                5 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
 ```
 
 <!--END_SECTION:waka-->
