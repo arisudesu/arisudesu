@@ -17,8 +17,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go               6 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.00 %
-Other            6 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   27.63 %
+Go               6 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   32.21 %
+Makefile         3 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+Other            2 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
 ```
 
 <!--END_SECTION:waka-->
