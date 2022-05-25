@@ -17,9 +17,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go               7 hrs 39 mins   █████████▒░░░░░░░░░░░░░░░   37.90 %
-Makefile         3 hrs 42 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
-Other            2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Go               10 hrs 52 mins  █████████████░░░░░░░░░░░░   51.98 %
+INI              1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Makefile         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Text             1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Other            59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
 
 <!--END_SECTION:waka-->
