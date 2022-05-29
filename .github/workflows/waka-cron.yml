@@ -14,4 +14,4 @@ jobs:
       - uses: athul/waka-readme@b317bba454ce1f0bacbcd7cdd3bfa6355f8fa4d1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: .>=
+          BLOCKS: .-=
