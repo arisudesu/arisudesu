@@ -17,12 +17,12 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go               19 hrs 56 mins  ===============..........   59.09 %
-PHP              6 hrs 57 mins   =====....................   20.62 %
-Makefile         2 hrs 48 mins   ==.......................   08.32 %
-Text             1 hr 2 mins     =........................   03.06 %
-JSON             41 mins         -........................   02.05 %
-TL schema file   37 mins         -........................   01.83 %
+Go               16 hrs 20 mins  ============-............   49.59 %
+PHP              7 hrs 44 mins   ======...................   23.50 %
+Makefile         4 hrs 10 mins   ===......................   12.68 %
+Text             1 hr 13 mins    =........................   03.72 %
+JSON             46 mins         -........................   02.34 %
+TL schema file   38 mins         -........................   01.94 %
 ```
 
 <!--END_SECTION:waka-->
