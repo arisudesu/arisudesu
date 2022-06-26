@@ -17,11 +17,12 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go               18 hrs 38 mins  ===============..........   60.42 %
-Go Template      8 hrs 52 mins   =======..................   28.77 %
-Batchfile        36 mins         -........................   01.96 %
-PHP              35 mins         -........................   01.91 %
-Other            25 mins         -........................   01.40 %
+Go               18 hrs 38 mins  ==============-..........   58.29 %
+Go Template      8 hrs 52 mins   =======..................   27.76 %
+HTML             1 hr 33 mins    =........................   04.87 %
+Batchfile        36 mins         -........................   01.89 %
+PHP              35 mins         -........................   01.85 %
+JSON             25 mins         -........................   01.34 %
 ```
 
 <!--END_SECTION:waka-->
