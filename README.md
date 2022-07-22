@@ -17,8 +17,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go                   9 hrs 53 mins   =============-...........   53.54 %
-Other                2 hrs 49 mins   ====.....................   15.32 %
+Go                   14 hrs 27 mins  ==============-..........   58.35 %
+Go Template          4 hrs 44 mins   =====....................   19.16 %
+Other                2 hrs 58 mins   ===......................   11.99 %
 ```
 
 <!--END_SECTION:waka-->
