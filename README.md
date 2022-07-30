@@ -17,7 +17,7 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Other        28 mins         ============-............   49.81 %
+Other        28 mins         =====================-...   86.29 %
 ```
 
 <!--END_SECTION:waka-->
