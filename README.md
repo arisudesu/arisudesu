@@ -17,7 +17,8 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Other        28 mins         =====================-...   86.29 %
+Groovy       6 hrs 35 mins   ========-................   33.55 %
+Other        5 hrs 15 mins   ======-..................   26.78 %
 ```
 
 <!--END_SECTION:waka-->
