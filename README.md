@@ -17,11 +17,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       9 hrs 57 mins   ==============...........   56.86 %
-TypeScript   3 hrs 17 mins   ====-....................   18.78 %
-Go           2 hrs 32 mins   ===-.....................   14.49 %
+Vue.js       9 hrs 57 mins   ==============...........   56.96 %
+TypeScript   3 hrs 17 mins   ====-....................   18.81 %
+Go           2 hrs 32 mins   ===-.....................   14.52 %
 JavaScript   34 mins         =........................   03.28 %
-textmate     31 mins         -........................   02.98 %
+textmate     31 mins         -........................   02.99 %
 PHP          27 mins         -........................   02.64 %
 ```
 
