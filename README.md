@@ -17,12 +17,12 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go               4 hrs 14 mins   ========-................   33.29 %
-PHP              3 hrs 5 mins    ======...................   24.22 %
-TypeScript       2 hrs 20 mins   ====-....................   18.33 %
-Vue.js           1 hr 25 mins    ===......................   11.24 %
-Text             48 mins         =-.......................   06.36 %
-JavaScript       37 mins         =........................   04.89 %
+PHP              3 hrs 31 mins   =======..................   27.96 %
+Go               3 hrs 16 mins   ======-..................   25.95 %
+TypeScript       2 hrs 30 mins   =====....................   19.92 %
+Vue.js           1 hr 22 mins    ==-......................   10.84 %
+Text             1 hr            ==.......................   07.93 %
+JavaScript       37 mins         =........................   04.95 %
 ```
 
 <!--END_SECTION:waka-->
