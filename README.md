@@ -17,10 +17,8 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go           50 mins         ============-............   50.87 %
-Batchfile    12 mins         ===-.....................   13.15 %
-Properties   12 mins         ===......................   12.28 %
-Other        8 mins          ==.......................   08.67 %
+Go                3 hrs 32 mins   =================........   68.07 %
+Other             52 mins         ====.....................   16.88 %
 ```
 
 <!--END_SECTION:waka-->
