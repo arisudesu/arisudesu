@@ -17,10 +17,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go           4 hrs 48 mins   ===================-.....   78.29 %
-SQL          42 mins         ===......................   11.44 %
-TOML         22 mins         =-.......................   06.13 %
-Other        8 mins          -........................   02.34 %
+Go          5 hrs 39 mins   =====================-...   85.70 %
+SQL         37 mins         ==-......................   09.44 %
+Other       10 mins         -........................   02.69 %
 ```
 
 <!--END_SECTION:waka-->
