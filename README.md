@@ -17,9 +17,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go             11 hrs 24 mins  ==================-......   73.79 %
-Vue.js         2 hrs 22 mins   ====.....................   15.37 %
-Other          49 mins         =-.......................   05.31 %
+Go             10 hrs 8 mins   ===================-.....   77.39 %
+SQL            1 hr 21 mins    ==-......................   10.38 %
+Other          52 mins         =-.......................   06.69 %
 ```
 
 <!--END_SECTION:waka-->
