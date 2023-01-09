@@ -17,8 +17,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     3 hrs 48 mins   ============.............   48.80 %
-Other        2 hrs 13 mins   =======..................   28.56 %
+Markdown     3 hrs 48 mins   =======-.................   30.51 %
+Go           3 hrs 13 mins   ======-..................   25.80 %
+Other        2 hrs 13 mins   ====-....................   17.85 %
 ```
 
 <!--END_SECTION:waka-->
