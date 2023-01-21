@@ -17,11 +17,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-YAML           6 hrs 46 mins   ============.............   48.42 %
-Go             3 hrs 6 mins    =====-...................   22.26 %
-PHP            2 hrs 9 mins    ====.....................   15.38 %
-Jinja2         33 mins         =........................   04.05 %
-Other          33 mins         =........................   04.01 %
+YAML         6 hrs 38 mins   ====================-....   82.77 %
+Jinja2       33 mins         ==.......................   07.05 %
+Other        33 mins         =-.......................   06.99 %
 ```
 
 <!--END_SECTION:waka-->
