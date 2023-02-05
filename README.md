@@ -17,9 +17,10 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-YAML            7 hrs 25 mins   ========-................   33.28 %
-Go              6 hrs 6 mins    =======..................   27.35 %
-Other           3 hrs 21 mins   ====.....................   15.05 %
+YAML            6 hrs 29 mins   ========-................   33.95 %
+Go              5 hrs 50 mins   =======-.................   30.57 %
+Vue.js          2 hrs 12 mins   ===......................   11.52 %
+Other           1 hr 24 mins    ==.......................   07.34 %
 ```
 
 <!--END_SECTION:waka-->
