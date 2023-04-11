@@ -17,9 +17,7 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-SQL            3 hrs 30 mins   ==============...........   56.90 %
-INI            1 hr            ====.....................   16.39 %
-Other          49 mins         ===-.....................   13.47 %
+Other      40 mins         ========================.   95.41 %
 ```
 
 <!--END_SECTION:waka-->
