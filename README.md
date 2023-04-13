@@ -17,7 +17,7 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Other   40 mins         =========================   99.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
