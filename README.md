@@ -17,7 +17,8 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP     1 hr 17 mins    ============-............   50.22 %
+Other   34 mins         =====-...................   22.55 %
 ```
 
 <!--END_SECTION:waka-->
