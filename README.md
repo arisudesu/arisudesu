@@ -17,7 +17,12 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go           1 hr 23 mins    ======================...   87.47 %
+C++          5 mins          =-.......................   06.14 %
+textmate     3 mins          =........................   03.19 %
+Text         1 min           -........................   01.54 %
+Batchfile    1 min           -........................   01.16 %
+ObjectiveC   0 secs          .........................   00.50 %
 ```
 
 <!--END_SECTION:waka-->
