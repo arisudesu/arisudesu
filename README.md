@@ -17,9 +17,10 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go                   9 hrs 10 mins   =================-.......   70.39 %
-C++                  2 hrs 48 mins   =====-...................   21.57 %
-Other                15 mins         -........................   01.93 %
+Go                   10 hrs 33 mins  ================-........   65.66 %
+C++                  4 hrs 3 mins    ======-..................   25.20 %
+ObjectiveC           36 mins         =........................   03.78 %
+Other                15 mins         -........................   01.57 %
 ```
 
 <!--END_SECTION:waka-->
