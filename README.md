@@ -17,12 +17,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go               7 hrs 45 mins   ============-............   49.38 %
-YAML             2 hrs 30 mins   ====.....................   15.91 %
-Bash             1 hr 18 mins    ==.......................   08.36 %
-Lua              52 mins         =-.......................   05.61 %
-Shell Script     52 mins         =-.......................   05.56 %
-Other            37 mins         =........................   03.94 %
+Go               7 hrs 45 mins   ============.............   47.62 %
+YAML             2 hrs 30 mins   ====.....................   15.34 %
+Other            1 hr 27 mins    ==.......................   08.91 %
 ```
 
 <!--END_SECTION:waka-->
