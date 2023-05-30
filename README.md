@@ -17,9 +17,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Lua          54 mins         ========.................   31.56 %
-Markdown     51 mins         =======-.................   29.99 %
-Other        50 mins         =======-.................   29.43 %
+Markdown     2 hrs 4 mins    ============-............   50.83 %
+Lua          54 mins         =====-...................   22.08 %
+Other        50 mins         =====....................   20.55 %
 ```
 
 <!--END_SECTION:waka-->
