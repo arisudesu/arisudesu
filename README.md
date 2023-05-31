@@ -17,9 +17,12 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     2 hrs 4 mins    ============-............   50.83 %
-Lua          54 mins         =====-...................   22.08 %
-Other        50 mins         =====....................   20.55 %
+Markdown     2 hrs 4 mins    ========================.   95.20 %
+YAML         3 mins          -........................   02.81 %
+Batchfile    1 min           .........................   00.86 %
+Go           0 secs          .........................   00.68 %
+Git Config   0 secs          .........................   00.31 %
+Lua          0 secs          .........................   00.08 %
 ```
 
 <!--END_SECTION:waka-->
