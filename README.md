@@ -17,11 +17,10 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown    1 hr 13 mins    ==============...........   56.44 %
-Go          55 mins         ==========-..............   42.97 %
-Batchfile   0 secs          .........................   00.48 %
-Lua         0 secs          .........................   00.08 %
-go.mod      0 secs          .........................   00.03 %
+Go         1 hr 48 mins    ========================-   97.25 %
+Markdown   3 mins          -........................   02.71 %
+go.mod     0 secs          .........................   00.04 %
+Text       0 secs          .........................   00.00 %
 ```
 
 <!--END_SECTION:waka-->
