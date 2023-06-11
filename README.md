@@ -17,9 +17,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Go         1 hr 20 mins    ========================.   96.41 %
-Markdown   3 mins          =........................   03.59 %
-Text       0 secs          .........................   00.00 %
+Go               59 mins         ====================.....   79.90 %
+ObjectiveC       7 mins          ==-......................   09.73 %
+Markdown         4 mins          =-.......................   06.15 %
+C                1 min           -........................   01.59 %
+Other            0 secs          .........................   00.94 %
 ```
 
 <!--END_SECTION:waka-->
