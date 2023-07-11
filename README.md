@@ -17,7 +17,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C          1 hr 44 mins    =========================   99.34 %
+Makefile   0 secs          .........................   00.46 %
+Other      0 secs          .........................   00.19 %
 ```
 
 <!--END_SECTION:waka-->
