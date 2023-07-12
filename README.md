@@ -17,9 +17,12 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-C          1 hr 44 mins    =========================   99.34 %
-Makefile   0 secs          .........................   00.46 %
-Other      0 secs          .........................   00.19 %
+C             3 hrs 25 mins   =====================-...   85.61 %
+Diff          17 mins         ==.......................   07.14 %
+Markdown      8 mins          =........................   03.69 %
+Makefile      7 mins          -........................   02.99 %
+ObjectiveC    0 secs          .........................   00.27 %
+Other         0 secs          .........................   00.20 %
 ```
 
 <!--END_SECTION:waka-->
