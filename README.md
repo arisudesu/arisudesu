@@ -17,9 +17,10 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-YAML                       5 hrs 31 mins   =====================....   84.55 %
-Batchfile                  26 mins         =-.......................   06.80 %
-Other                      14 mins         =........................   03.75 %
+YAML                       1 hr 11 mins    =========................   35.96 %
+Text                       1 hr 7 mins     ========-................   33.75 %
+Batchfile                  27 mins         ===-.....................   13.90 %
+Other                      14 mins         ==.......................   07.43 %
 ```
 
 <!--END_SECTION:waka-->
