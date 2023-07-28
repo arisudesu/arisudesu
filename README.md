@@ -20,10 +20,10 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-YAML                       1 hr 11 mins    =========................   35.96 %
-Text                       1 hr 7 mins     ========-................   33.75 %
-Batchfile                  27 mins         ===-.....................   13.90 %
-Other                      14 mins         ==.......................   07.43 %
+Text                       1 hr 7 mins     =========................   36.82 %
+YAML                       50 mins         =======..................   27.98 %
+Batchfile                  27 mins         ====.....................   15.16 %
+Other                      14 mins         ==.......................   08.11 %
 ```
 
 <!--END_SECTION:waka-->
