@@ -20,10 +20,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Text        1 hr 7 mins     ==============-..........   57.26 %
-Batchfile   27 mins         ======...................   23.59 %
-C++         12 mins         ==-......................   10.77 %
-Other       4 mins          =........................   03.59 %
+Text        1 hr 5 mins     =======================..   91.04 %
+C           3 mins          =-.......................   05.11 %
+Other       1 min           -........................   02.03 %
 ```
 
 <!--END_SECTION:waka-->
