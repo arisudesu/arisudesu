@@ -20,9 +20,8 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-YAML                       1 hr 55 mins    ============.............   48.64 %
-Text                       59 mins         ======...................   24.97 %
-Other                      53 mins         =====-...................   22.32 %
+YAML                       5 hrs 34 mins   ===============-.........   62.86 %
+Other                      1 hr 52 mins    =====-...................   21.16 %
 ```
 
 <!--END_SECTION:waka-->
