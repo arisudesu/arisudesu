@@ -20,7 +20,7 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Other                      6 hrs 58 mins   ============.............   48.03 %
+Other                      7 hrs           ============-............   49.10 %
 ```
 
 <!--END_SECTION:waka-->
