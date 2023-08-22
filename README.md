@@ -20,8 +20,12 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-YAML                       2 hrs 53 mins   ==============...........   56.75 %
-Other                      1 hr 24 mins    =======..................   27.73 %
+YAML             1 hr            ==================.......   72.90 %
+Assembly         12 mins         ===-.....................   14.60 %
+Ezhil            3 mins          =........................   04.11 %
+INI              2 mins          =........................   03.41 %
+ActionScript 3   2 mins          =........................   03.06 %
+Docker           1 min           -........................   01.56 %
 ```
 
 <!--END_SECTION:waka-->
