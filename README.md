@@ -20,9 +20,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-Assembly                   1 hr 40 mins    ======...................   24.82 %
-Ezhil                      1 hr 12 mins    ====-....................   17.79 %
-Other                      1 hr 5 mins     ====.....................   16.07 %
+Assembly                   1 hr 29 mins    =======..................   28.99 %
+Ezhil                      1 hr 11 mins    ======...................   23.02 %
+Other                      1 hr 4 mins     =====-...................   21.03 %
 ```
 
 <!--END_SECTION:waka-->
