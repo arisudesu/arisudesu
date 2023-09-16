@@ -20,12 +20,12 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-ActionScript               58 mins         =========................   36.94 %
-Ezhil                      53 mins         ========-................   33.21 %
-YAML                       14 mins         ==-......................   09.27 %
-JSON                       9 mins          =-.......................   05.70 %
-Nginx configuration file   6 mins          =........................   03.89 %
-Other                      4 mins          =........................   03.06 %
+Ezhil                      1 hr 13 mins    ==========-..............   41.41 %
+YAML                       41 mins         ======...................   23.62 %
+ActionScript               21 mins         ===......................   12.28 %
+Batchfile                  13 mins         ==.......................   07.51 %
+JSON                       9 mins          =-.......................   05.21 %
+INI                        6 mins          =........................   03.61 %
 ```
 
 <!--END_SECTION:waka-->
