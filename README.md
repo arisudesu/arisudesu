@@ -11,6 +11,7 @@ Have a look at [my site](https://arisu.dev), too.
  - [aports](https://github.com/arisudesu/aports):  A collection of personal packages for Alpine Linux
 
 **Minecraft**
+ - [GregificationStripped](https://github.com/arisudesu/GregificationStripped): Gregification with Forestry & OC modules only; no ExNihilo and TFC
  - [GTCEBees](https://github.com/arisudesu/GTCEBees): A GTCE and Forestry addon adding the Bees from GT5U (fork updated for GTCEu)
  - [GTCEDynTree](https://github.com/arisudesu/GTCEDynTree): Dynamic Trees compatibility addon for GregTech
  - [GTCEForestryFarmCompat](https://github.com/arisudesu/GTCEForestryFarmCompat): Forestry tree farm compatibility for GregTech
