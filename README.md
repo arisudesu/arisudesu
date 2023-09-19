@@ -21,12 +21,8 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-ActionScript               1 hr 36 mins    ========-................   33.81 %
-Ezhil                      1 hr 14 mins    ======-..................   25.97 %
-YAML                       1 hr 9 mins     ======...................   24.36 %
-Batchfile                  13 mins         =........................   04.63 %
-JSON                       9 mins          =........................   03.21 %
-INI                        8 mins          =........................   03.00 %
+ActionScript               2 hrs 3 mins    ======...................   23.34 %
+Other                      1 hr 37 mins    ====-....................   18.35 %
 ```
 
 <!--END_SECTION:waka-->
