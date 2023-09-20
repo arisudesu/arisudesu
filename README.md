@@ -21,8 +21,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```text
-ActionScript               2 hrs 3 mins    ======...................   23.34 %
-Other                      1 hr 37 mins    ====-....................   18.35 %
+YAML                       2 hrs 14 mins   ======...................   23.94 %
+ActionScript               1 hr 58 mins    =====-...................   21.14 %
+Other                      1 hr 42 mins    ====-....................   18.23 %
 ```
 
 <!--END_SECTION:waka-->
