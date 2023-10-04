@@ -20,8 +20,10 @@ Have a look at [my site](https://arisu.dev), too.
 ### arisudesu@github:~$ waka-stats weekly
 <!--START_SECTION:waka-->
 
-```text
-Other                      36 mins         ==================-......   73.66 %
+```txt
+Other    16 mins         =================-.......   69.93 %
+YAML     4 mins          ====.....................   16.54 %
+Docker   3 mins          ===-.....................   13.53 %
 ```
 
 <!--END_SECTION:waka-->
