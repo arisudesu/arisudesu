@@ -21,9 +21,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Other    16 mins         =================-.......   69.93 %
-YAML     4 mins          ====.....................   16.54 %
-Docker   3 mins          ===-.....................   13.53 %
+ActionScript 3   19 mins         ==========-..............   41.58 %
+Docker           13 mins         =======-.................   29.24 %
+INI              13 mins         =======..................   28.67 %
+YAML             0 secs          .........................   00.47 %
+Ezhil            0 secs          .........................   00.05 %
 ```
 
 <!--END_SECTION:waka-->
