@@ -21,11 +21,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      3 hrs 13 mins   ===========-.............   45.50 %
-YAML                       2 hrs 54 mins   ==========...............   40.99 %
-INI                        31 mins         ==.......................   07.33 %
-JSON                       15 mins         =........................   03.52 %
-Jinja2                     4 mins          -........................   01.01 %
+YAML                       2 hrs 22 mins   ===========..............   43.60 %
+Other                      2 hrs 19 mins   ==========-..............   42.66 %
+INI                        31 mins         ==-......................   09.57 %
+Jinja2                     4 mins          -........................   01.32 %
+Nginx configuration file   3 mins          -........................   01.06 %
 ```
 
 <!--END_SECTION:waka-->
