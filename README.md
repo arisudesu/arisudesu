@@ -21,10 +21,7 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr 8 mins     ================.........   64.30 %
-YAML       31 mins         =======-.................   30.12 %
-Jinja2     3 mins          =........................   03.49 %
-Markdown   2 mins          -........................   02.09 %
+Markdown   2 mins          =========================   100.00 %
 ```
 
 <!--END_SECTION:waka-->
