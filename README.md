@@ -21,10 +21,10 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       7 mins          =====================....   84.26 %
-Markdown   1 min           ===......................   11.17 %
-Other      0 secs          =........................   04.18 %
-INI        0 secs          .........................   00.40 %
+Other      16 mins         ================.........   64.81 %
+JSON       7 mins          =======-.................   30.94 %
+Markdown   1 min           =........................   04.10 %
+INI        0 secs          .........................   00.15 %
 ```
 
 <!--END_SECTION:waka-->
