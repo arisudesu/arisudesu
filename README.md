@@ -21,8 +21,7 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   17 mins         =========================   99.23 %
-C#      0 secs          .........................   00.77 %
+Other   0 secs          =========================   100.00 %
 ```
 
 <!--END_SECTION:waka-->
