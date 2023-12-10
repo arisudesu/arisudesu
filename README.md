@@ -21,7 +21,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 mins          =========================   100.00 %
+Markdown       3 mins          ================.........   63.47 %
+C++            1 min           ========.................   32.09 %
+ObjectiveC     0 secs          -........................   02.75 %
+Text           0 secs          -........................   01.43 %
+Shell Script   0 secs          .........................   00.21 %
 ```
 
 <!--END_SECTION:waka-->
