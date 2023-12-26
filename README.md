@@ -9,6 +9,7 @@ Have a look at [my site](https://arisu.dev), too.
 
 **Linux**
  - [aports](https://github.com/arisudesu/aports):  A collection of personal packages for Alpine Linux
+ - [baka](https://github.com/arisudesu/baka): Wrapper around restic backup tool
 
 **Minecraft**
  - [GregificationStripped](https://github.com/arisudesu/GregificationStripped): Gregification with Forestry & OC modules only; no ExNihilo and TFC
