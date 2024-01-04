@@ -22,11 +22,9 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 52 mins    ==================.......   71.96 %
-Other      24 mins         ====.....................   15.90 %
-Jinja2     15 mins         ==-......................   10.05 %
-PHP        2 mins          -........................   01.69 %
-C#         0 secs          .........................   00.35 %
+Jinja2     15 mins         ================.........   64.17 %
+Markdown   8 mins          =========................   35.45 %
+Other      0 secs          .........................   00.39 %
 ```
 
 <!--END_SECTION:waka-->
