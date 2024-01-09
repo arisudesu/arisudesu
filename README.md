@@ -22,8 +22,8 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Jinja2   15 mins         =========================   99.40 %
-Other    0 secs          .........................   00.60 %
+Jinja2   15 mins         =========================   99.93 %
+Other    0 secs          .........................   00.07 %
 ```
 
 <!--END_SECTION:waka-->
