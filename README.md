@@ -22,8 +22,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Jinja2   15 mins         =========================   99.93 %
-Other    0 secs          .........................   00.07 %
+Go                1 hr 34 mins    ===================-.....   78.97 %
+PHP               9 mins          ==.......................   08.11 %
+Other             8 mins          ==.......................   07.09 %
+Text              6 mins          =-.......................   05.81 %
+Gettext Catalog   0 secs          .........................   00.02 %
 ```
 
 <!--END_SECTION:waka-->
