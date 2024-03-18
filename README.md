@@ -26,11 +26,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         5 hrs 37 mins   =========-...............   38.42 %
-Other                      4 hrs 14 mins   =======..................   28.99 %
-Jinja2                     2 hrs 24 mins   ====.....................   16.43 %
-YAML                       1 hr 6 mins     ==.......................   07.61 %
-Markdown                   20 mins         -........................   02.31 %
+Other                      5 hrs 21 mins   ========-................   33.97 %
+Go                         5 hrs 12 mins   ========-................   33.06 %
+Jinja2                     2 hrs 19 mins   ===-.....................   14.79 %
+Nginx configuration file   43 mins         =........................   04.60 %
+YAML                       40 mins         =........................   04.27 %
 ```
 
 <!--END_SECTION:waka-->
