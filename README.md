@@ -26,11 +26,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         5 hrs 4 mins    ========.................   31.76 %
-Other                      4 hrs 51 mins   =======-.................   30.40 %
-Bash                       1 hr 54 mins    ===......................   11.94 %
-Jinja2                     1 hr 19 mins    ==.......................   08.24 %
-Nginx configuration file   43 mins         =........................   04.54 %
+Other                      4 hrs 55 mins   =========................   35.75 %
+Go                         4 hrs 19 mins   ========.................   31.39 %
+Bash                       1 hr 54 mins    ===-.....................   13.86 %
+Nginx configuration file   43 mins         =-.......................   05.26 %
+CSV                        19 mins         -........................   02.39 %
 ```
 
 <!--END_SECTION:waka-->
