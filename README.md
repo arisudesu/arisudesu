@@ -26,11 +26,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       8 hrs 31 mins   =========-...............   37.34 %
-Bash         8 hrs 13 mins   =========................   36.06 %
-Go           2 hrs 8 mins    ==-......................   09.38 %
-Other        1 hr 29 mins    =-.......................   06.57 %
-PHP          1 hr 18 mins    =-.......................   05.75 %
+Docker       8 hrs 31 mins   ========-................   34.56 %
+Bash         8 hrs 23 mins   ========-................   34.01 %
+Other        2 hrs 43 mins   ===......................   11.07 %
+Go           2 hrs 26 mins   ==-......................   09.90 %
+PHP          1 hr 21 mins    =-.......................   05.48 %
 ```
 
 <!--END_SECTION:waka-->
