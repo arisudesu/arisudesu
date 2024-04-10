@@ -1,6 +1,6 @@
-![](umaru_golang.png)
-
 ### arisudesu@github:~$ cat /etc/motd
+
+<img align="right" src="umaru_golang.png">
 
 Hi there 👋  Feel free to explore.  
 Have a look at [my site](https://arisu.dev), too.
@@ -13,6 +13,10 @@ Have a look at [my site](https://arisu.dev), too.
 **Linux**
  - [aports](https://github.com/arisudesu/aports):  A collection of personal packages for Alpine Linux
  - [baka](https://github.com/arisudesu/baka): Wrapper around restic backup tool
+
+**Docker**
+ - [docker-php-5-alpine](https://github.com/arisudesu/docker-php-5-alpine): PHP 5.6.40 image build on Alpine Linux 3.19
+ - [docker-space-engineers-dedicated](https://github.com/arisudesu/docker-space-engineers-dedicated): Space Engineers Dedicated Server, running in Wine in a Docker container
 
 **Minecraft**
  - [GregificationStripped](https://github.com/arisudesu/GregificationStripped): Gregification with Forestry & OC modules only; no ExNihilo and TFC
