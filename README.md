@@ -30,11 +30,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      9 hrs 8 mins    =========................   35.97 %
-Go                         8 hrs 37 mins   ========-................   33.95 %
-PHP                        2 hrs 53 mins   ===......................   11.37 %
-YAML                       1 hr 41 mins    =-.......................   06.63 %
-Batchfile                  41 mins         -........................   02.74 %
+Other                      10 hrs 2 mins   ===========-.............   45.75 %
+Go                         5 hrs 21 mins   ======...................   24.41 %
+YAML                       1 hr 59 mins    ==-......................   09.06 %
+PHP                        1 hr 23 mins    =-.......................   06.38 %
+Batchfile                  41 mins         =........................   03.17 %
 ```
 
 <!--END_SECTION:waka-->
