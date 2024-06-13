@@ -8,7 +8,8 @@ Have a look at [my site](https://arisu.dev), too.
 ### arisudesu@github:~$ ls -l ~/projects/*
 
 **QMK**
- - [qmk_firmware/master_m1_openrgb](https://github.com/arisudesu/qmk_firmware/tree/master_m1_openrgb): Personal fork of QMK with OpenRGB patches for Monsgeek M1
+ - [qmk_firmware/master_m1_openrgb](https://github.com/arisudesu/qmk_firmware/tree/master_m1_openrgb): Personal fork of QMK with OpenRGB patches for Monsgeek M1 (predating external QMK userspace)
+ - [qmk_userspace](https://github.com/arisudesu/qmk_userspace): Personal QMK userspace containing keymap for my Monsgeek M1
 
 **Linux**
  - [aports](https://github.com/arisudesu/aports):  A collection of personal packages for Alpine Linux
