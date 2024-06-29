@@ -31,11 +31,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         7 hrs 13 mins   =========-...............   37.80 %
-Other                      6 hrs 13 mins   ========.................   32.56 %
-YAML                       1 hr 54 mins    ==-......................   10.01 %
-Markdown                   1 hr 38 mins    ==.......................   08.59 %
-JavaScript                 34 mins         =........................   03.02 %
+Go                         10 hrs 19 mins  ===========..............   43.04 %
+Other                      6 hrs 20 mins   ======-..................   26.42 %
+Markdown                   2 hrs 25 mins   ==-......................   10.08 %
+YAML                       1 hr 54 mins    ==.......................   07.97 %
+C#                         49 mins         =........................   03.45 %
 ```
 
 <!--END_SECTION:waka-->
