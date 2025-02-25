@@ -31,11 +31,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      7 hrs 38 mins   =========................   36.73 %
-YAML                       3 hrs 50 mins   ====-....................   18.49 %
-Python                     3 hrs 34 mins   ====-....................   17.17 %
-Go                         2 hrs 29 mins   ===......................   11.95 %
-PHP                        1 hr            =........................   04.86 %
+Other                      9 hrs 13 mins   =========................   35.51 %
+YAML                       4 hrs 50 mins   ====-....................   18.64 %
+Go                         4 hrs 43 mins   ====-....................   18.19 %
+Python                     3 hrs 45 mins   ===-.....................   14.50 %
+Jinja2                     1 hr 17 mins    =........................   04.99 %
 ```
 
 <!--END_SECTION:waka-->
