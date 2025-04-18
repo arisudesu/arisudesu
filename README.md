@@ -31,11 +31,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                14 hrs 23 mins  =============-...........   54.72 %
-Markdown          3 hrs 9 mins    ===......................   11.98 %
-Vue.js            2 hrs 44 mins   ==-......................   10.40 %
-Other             2 hrs 28 mins   ==-......................   09.39 %
-PHP               1 hr 22 mins    =-.......................   05.21 %
+Go                16 hrs 16 mins  ==============-..........   57.82 %
+Other             2 hrs 54 mins   ==-......................   10.35 %
+Vue.js            2 hrs 44 mins   ==-......................   09.72 %
+Markdown          1 hr 38 mins    =-.......................   05.84 %
+PHP               1 hr 24 mins    =-.......................   05.02 %
 ```
 
 <!--END_SECTION:waka-->
