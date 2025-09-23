@@ -31,11 +31,7 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-C#           53 mins         =============............   51.89 %
-Go           29 mins         =======..................   28.71 %
-PHP          11 mins         ===......................   11.36 %
-JavaScript   4 mins          =........................   04.65 %
-textmate     2 mins          -........................   02.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
