@@ -31,11 +31,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   7 hrs 48 mins   =======..................   28.14 %
-Terraform            4 hrs 20 mins   ====.....................   15.64 %
-Smarty               3 hrs 53 mins   ===-.....................   14.05 %
-YAML                 2 hrs 34 mins   ==-......................   09.28 %
-Terraform Template   1 hr 44 mins    =-.......................   06.28 %
+Go                   10 hrs 21 mins  =========-...............   37.27 %
+Terraform            3 hrs 57 mins   ===-.....................   14.27 %
+Smarty               2 hrs 50 mins   ==-......................   10.21 %
+YAML                 2 hrs 4 mins    ==.......................   07.46 %
+Terraform Template   1 hr 12 mins    =........................   04.36 %
 ```
 
 <!--END_SECTION:waka-->
