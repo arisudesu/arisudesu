@@ -31,10 +31,8 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Go         57 mins         ===================......   76.20 %
-Text       17 mins         ======...................   23.28 %
-Assembly   0 secs          .........................   00.41 %
-Other      0 secs          .........................   00.11 %
+Text    17 mins         =========================   99.52 %
+Other   0 secs          .........................   00.48 %
 ```
 
 <!--END_SECTION:waka-->
