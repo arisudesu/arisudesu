@@ -31,7 +31,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                   59 mins         =========-...............   37.41 %
+Text                 43 mins         =======..................   27.32 %
+C#                   24 mins         ====.....................   15.61 %
+JavaScript           9 mins          =-.......................   05.85 %
+CSS                  9 mins          =-.......................   05.80 %
 ```
 
 <!--END_SECTION:waka-->
