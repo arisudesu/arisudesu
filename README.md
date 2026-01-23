@@ -31,11 +31,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform                  3 hrs 54 mins   ======...................   23.33 %
-Makefile                   2 hrs 20 mins   ===-.....................   14.02 %
-Kotlin                     1 hr 50 mins    ==-......................   10.95 %
-Bash                       1 hr 12 mins    ==.......................   07.19 %
-Other                      56 mins         =-.......................   05.63 %
+Terraform                  2 hrs 57 mins   ===-.....................   14.83 %
+Go                         2 hrs 48 mins   ===-.....................   14.07 %
+Kotlin                     1 hr 50 mins    ==-......................   09.20 %
+Makefile                   1 hr 43 mins    ==.......................   08.65 %
+PHP                        1 hr 16 mins    =-.......................   06.42 %
 ```
 
 <!--END_SECTION:waka-->
