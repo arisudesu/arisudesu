@@ -31,11 +31,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   9 hrs 54 mins   =============-...........   54.22 %
-Other                2 hrs 31 mins   ===-.....................   13.79 %
-Groovy               1 hr 7 mins     =-.......................   06.13 %
-Markdown             33 mins         =........................   03.08 %
-Bash                 31 mins         -........................   02.92 %
+Go                   9 hrs 54 mins   =============............   51.33 %
+Other                2 hrs 33 mins   ===-.....................   13.28 %
+Groovy               1 hr 46 mins    ==-......................   09.17 %
+Markdown             34 mins         -........................   02.94 %
+Bash                 31 mins         -........................   02.76 %
 ```
 
 <!--END_SECTION:waka-->
