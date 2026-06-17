@@ -31,10 +31,11 @@ Have a look at [my site](https://arisu.dev), too.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   5 hrs 31 mins   =========================   99.54 %
-go.mod               1 min           .........................   00.45 %
-x86 Plan9 Assembly   0 secs          .........................   00.01 %
-GitIgnore file       0 secs          .........................   00.00 %
+Go                   8 hrs 31 mins   =======================..   92.03 %
+Text                 27 mins         =-.......................   05.03 %
+Markdown             12 mins         -........................   02.24 %
+PHP                  1 min           .........................   00.29 %
+go.mod               1 min           .........................   00.27 %
 ```
 
 <!--END_SECTION:waka-->
